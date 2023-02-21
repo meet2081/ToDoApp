@@ -1,0 +1,26 @@
+.main-container {
+  height: 100vh;
+  background: #9f98f9;
+}
+
+.input-container {
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-list {
+  display: flex;
+  border-color: blue;
+}
+
+.textfield{
+  border-color: antiquewhite !important;
+}
+
+.button-maincontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.card-wrapper {
+    min-width: 20%;
+    margin: 0px 10px;
+}
+.card-leftcontainer a{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 2rem;
+    margin-left: auto !important;
+    margin-right: 0% !important;
+}
